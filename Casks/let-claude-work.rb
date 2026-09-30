@@ -1,8 +1,8 @@
 cask "let-claude-work" do
-  version :latest
-  sha256 :no_check
+  version "1.2.2"
+  sha256 "87d46ee8819963e7f0ea"
 
-  url "https://github.com/iosifnicolae2/let-claude-work-while-you-sleep/releases/latest/download/LetClaudeWork.zip"
+  url "https://github.com/iosifnicolae2/let-claude-work-while-you-sleep/releases/download/v#{version}/LetClaudeWork.zip"
   name "Let Claude Work While You Sleep"
   desc "Menu bar app that turns the screens off and keeps the Mac awake"
   homepage "https://github.com/iosifnicolae2/let-claude-work-while-you-sleep"
