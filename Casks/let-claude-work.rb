@@ -1,6 +1,6 @@
 cask "let-claude-work" do
-  version "1.2.6"
-  sha256 "d1db7b0b8a87ca1ad9c1c44491efe9ec251bd5fc7c8962bedde432b8322e586f"
+  version "1.3.0"
+  sha256 "5d79c07c272b0e754d02ac98b3a6fd7626658f13257d7efa10825cd03c27ae5c"
 
   url "https://github.com/iosifnicolae2/let-claude-work-while-you-sleep/releases/download/v#{version}/LetClaudeWork.zip"
   name "Let Claude Work While You Sleep"
